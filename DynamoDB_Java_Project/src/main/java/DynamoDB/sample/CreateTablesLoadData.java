@@ -31,10 +31,10 @@ public class CreateTablesLoadData {
     static SimpleDateFormat dateFormatter = new SimpleDateFormat(
             "yyyy-MM-dd'T'HH:mm:ss.SSS'Z'");
 
-    static String productCatalogTableName = "ProductCatalog";
-    static String forumTableName = "Forum";
-    static String threadTableName = "Thread";
-    static String replyTableName = "Reply";
+    static String productCatalogTableName = "Bharat-ProductCatalog";
+    static String forumTableName = "Bharat-Forum";
+    static String threadTableName = "Bharat-Thread";
+    static String replyTableName = "Bharat-Reply";
 
     public static void main(String[] args) throws Exception {
 
