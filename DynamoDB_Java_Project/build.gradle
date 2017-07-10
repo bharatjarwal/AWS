@@ -10,7 +10,7 @@ description = """sample"""
 sourceCompatibility = 1.5
 targetCompatibility = 1.5
 
-
+echo Hello
 
 repositories {
 
